@@ -36,6 +36,7 @@
 
 button {
     background-color: #3882F6;
+    border: 1.5px solid white;
     color: white;
     padding: 8px 16px 8px 16px;
     font-size: small;
@@ -136,6 +137,7 @@ a {
 .footer {
     background-color: #142937;
     color: white;
+    font-size: small;
     display: flex;
     justify-content: center;
     
